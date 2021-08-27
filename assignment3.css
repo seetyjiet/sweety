@@ -1,0 +1,25 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(80, 75, 75);
+}
+
+h1{
+    text-align: center;
+    color: tomato;
+}
+
+.container{
+    margin: auto;
+    background-color: blueviolet;
+    color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 700;
+}
+ol{
+    list-style-position: outside;
+}
